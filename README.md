@@ -3,5 +3,7 @@
   
  - **Interests:** *Discrete Math, Algorithms and Data Structures, Web, Numerical Methods.* 
  - **Languages:** *Ukrainian (native), English (B2).*
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Programming+Languages+%3A+JS)](https://git.io/typing-svg)
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DaniilHerasymenko&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaniilHerasymenko&theme=dark&hide_border=true)](https://git.io/streak-stats)
